@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Bebee</h1>
 
 <p align="center">
-  🌙 Frontend Dev | 🎨 Artist | 📚 Student at KmD <br>
+  🌙 Frontend Dev | 🎨 Artist  <br>
   🧕 Muslim | 💜 Cat & Purple lover | 💻 INFP Dev
 </p>
 
@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beebee-git&show_icons=true&theme=radical&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beebee-git&layout=compact&theme=radical&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yunn-bebee&show_icons=true&theme=radical&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunn-bebee&layout=compact&theme=radical&border_radius=15"/>
 </p>
 
 ---
