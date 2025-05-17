@@ -1,6 +1,6 @@
 <!-- PROFILE SECTION -->
 <div align="center">
-  <img align="left" src="https://github.com/yunn-bebee.png" width="120" style="border-radius: 50%; margin-right: 30px;" alt="Bebee's Profile" />
+ 
   
   ### 🧕 Yunn Thu Thu ( Bebee)
   
