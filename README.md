@@ -1,8 +1,10 @@
 <!-- PROFILE SECTION -->
+
+##
 <div align="center">
  
   
-  ### 🧕 Yunn Thu Thu ( Bebee)
+  ### 🧕 Yunn Thu Thu (Bebee)
   
   **Frontend Developer & UI Artist**  
   Building beautiful experiences with React & TypeScript
